@@ -3394,6 +3394,17 @@ J:
   tm_scope: source.j
   ace_mode: text
   language_id: 172
+Jack-of-All Configuration Language:
+  type: data
+  color: "#438eff"
+  extensions:
+  - ".jcf"
+  tm_scope: source.jcf
+  ace_mode: text
+  aliases:
+  - jcl-config
+  - jack
+  language_id: 1074148648
 JAR Manifest:
   type: data
   color: "#b07219"
